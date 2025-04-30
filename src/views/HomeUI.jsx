@@ -139,6 +139,9 @@ function HomeUI() {
           </Box>
           <Button variant="contained" sx={{ my:1,mx:140 , bgcolor: '#CD9B1D', color: 'black' }}>Submit</Button>                              
         </Box>
+        <Box component="footer" sx={{ textAlign: 'center', color: '#9ca3af', p: 2, fontSize: '12px' }}>
+        © 2025 TEERAWUT  PROMSIRI
+      </Box>
         <Box sx={{width:'1496px',height:5,backgroundColor:'#cb93ca',my:6}}/>
 
         
